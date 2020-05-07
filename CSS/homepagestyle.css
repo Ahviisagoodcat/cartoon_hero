@@ -1,0 +1,15 @@
+body{
+	background-color: #F5CBA7;
+}
+h1{
+	font-size: 40px;
+	color: #3498DB;
+	font-style: italic;
+}
+h2{
+	font-size: 25px;
+	color: #2874A6;
+}
+.uppercase{
+	text-transform: uppercase;
+}
